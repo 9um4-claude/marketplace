@@ -1,0 +1,11 @@
+{
+  "$schema": "https://catalog.lintel.tools/schemas/claude-code/marketplace/latest.json",
+  "name": "9um4-tools",
+  "description": "Claude Code plugin marketplace for 9um4's dev tools.",
+  "owner": {
+    "name": "9um4"
+  },
+  "plugins": [
+  ],
+  "renames": {}
+}

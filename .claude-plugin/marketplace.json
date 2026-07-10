@@ -3,8 +3,10 @@
   "name": "9um4-tools",
   "description": "Claude Code plugin marketplace for 9um4's dev tools.",
   "owner": {
-    "name": "9um4"
+    "name": "9um4",
+    "email": "9um4.dev@gmail.com"
   },
+  "version": "0.1.0",
   "plugins": [
   ],
   "renames": {}

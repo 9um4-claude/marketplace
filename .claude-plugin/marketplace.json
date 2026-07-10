@@ -6,8 +6,18 @@
     "name": "9um4",
     "email": "9um4.dev@gmail.com"
   },
-  "version": "0.1.0",
+  "version": "0.2.0",
   "plugins": [
+    {
+      "name": "intellicommit",
+      "source": {
+        "source": "github",
+        "repo": "9um4-claude/intelliCommit"
+      },
+      "description": "변경사항을 도메인별로 분리해 커밋하고 브랜치를 자동 관리하는 스마트 커밋 어시스턴트",
+      "category": "commit",
+      "keywords": ["git", "commit", "branch", "workflow", "smart-commit"]
+    }
   ],
   "renames": {}
 }
